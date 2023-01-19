@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "ai.fetcher.playground.sqspoc.producer.queues.dummy-creation-event.url",
+      "type": "java.lang.String",
+      "description": "The URL of the SQS queue to which a Dummy entity creation event must be sent."
+    }
+  ]
+}
